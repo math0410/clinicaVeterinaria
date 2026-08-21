@@ -1,4 +1,3 @@
-Claro! Nesse caso, é melhor deixar o README mais simples e fiel ao projeto, sem mencionar backend ou banco de dados.
 
 # 🐾 Clínica Veterinária
 
